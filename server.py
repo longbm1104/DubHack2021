@@ -4,8 +4,6 @@ import numpy as np
 from imageRecognition import ImageRecognition
 from watermelonTraining import ShelfLifeWatermelon
 from cocosTraining  import ShelfLifeCocos
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 from PIL import Image
 import cv2
 import json
