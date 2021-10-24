@@ -1,0 +1,38 @@
+shelf_life_over_time = [
+  {
+    "id": "1",
+    "count": "1500",
+    "product": "Strawberries",
+    "Eliminated": "10%",
+    "Mean": "5.5",
+    "Min": "2",
+    "Max": "8"
+  },
+  {
+    "id": "2",
+    "count": "1500",
+    "product": "Bananas",
+    "Eliminated": "2%",
+    "Mean": "3",
+    "Min": "2",
+    "Max": "5"
+  },
+  {
+    "id": "3",
+    "count": "1500",
+    "product": "Bananas",
+    "Eliminated": "2%",
+    "Mean": "3",
+    "Min": "5",
+    "Max": "5"
+  },
+  {
+    "id": "4",
+    "count": "1500",
+    "product": "Bananas",
+    "Eliminated": "2%",
+    "Mean": "3",
+    "Min": "2",
+    "Max": "5"
+  }
+]

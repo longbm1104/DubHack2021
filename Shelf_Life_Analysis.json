@@ -1,0 +1,90 @@
+arr = [
+  {
+    "id": "1",
+    "order_number": "#2458",
+    "category": "Acceptable",
+    "Farmer": "Darrell Williamson",
+    "Product": "Strawberries",
+    "Quantity": "1500",
+    "Type": "Fruits",
+    "Days until Rotten": "5",
+    "Damage Rate": "40%"
+  },
+  {
+    "id": "2",
+    "order_number": "#3001",
+    "category": "Exceptional",
+    "Farmer": "Darrell Williamson",
+    "Product": "Bananas",
+    "Quantity": "500",
+    "Type": "Vegetables",
+    "Days until Rotten": "10",
+    "Damage Rate": "20%"
+  },
+  {
+    "id": "3",
+    "order_number": "#3001",
+    "category": "Reject",
+    "Farmer": "Darrell Williamson",
+    "Product": "Lemons",
+    "Quantity": "500",
+    "Type": "Vegetables",
+    "Days until Rotten": "2",
+    "Damage Rate": "70%"
+  },
+  {
+    "id": "4",
+    "order_number": "#2458",
+    "category": "Acceptable",
+    "Farmer": "Darrell Williamson",
+    "Product": "Strawberries",
+    "Quantity": "1500",
+    "Type": "Fruits",
+    "Days until Rotten": "5",
+    "Damage Rate": "40%"
+  },
+  {
+    "id": "5",
+    "order_number": "#3001",
+    "category": "Exceptional",
+    "Farmer": "Darrell Williamson",
+    "Product": "Bananas",
+    "Quantity": "500",
+    "Type": "Vegetables",
+    "Days until Rotten": "10",
+    "Damage Rate": "20%"
+  },
+  {
+    "id": "6",
+    "order_number": "#3001",
+    "category": "Reject",
+    "Farmer": "Darrell Williamson",
+    "Product": "Lemons",
+    "Quantity": "500",
+    "Type": "Vegetables",
+    "Days until Rotten": "2",
+    "Damage Rate": "70%"
+  },
+  {
+    "id": "7",
+    "order_number": "#3001",
+    "category": "Exceptional",
+    "Farmer": "Darrell Williamson",
+    "Product": "Bananas",
+    "Quantity": "500",
+    "Type": "Vegetables",
+    "Days until Rotten": "10",
+    "Damage Rate": "20%"
+  },
+  {
+    "id": "1",
+    "order_number": "#3001",
+    "category": "Reject",
+    "Farmer": "Darrell Williamson",
+    "Product": "Lemons",
+    "Quantity": "500",
+    "Type": "Vegetables",
+    "Days until Rotten": "2",
+    "Damage Rate": "70%"
+  }
+]
